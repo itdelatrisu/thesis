@@ -1,0 +1,9 @@
+[submodule "alexa-scraper"]
+	path = alexa-scraper
+	url = https://github.com/itdelatrisu/alexa-scraper.git
+[submodule "mailserver"]
+	path = mailserver
+	url = https://github.com/itdelatrisu/thesis-mailserver.git
+[submodule "OpenWPM"]
+	path = OpenWPM
+	url = https://github.com/itdelatrisu/OpenWPM.git
